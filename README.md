@@ -1,6 +1,8 @@
 # Whatsapp Chat Analyzer
 
-A streamlit app used to analyze your whatsapp chat
+A streamlit app used to analyze your whatsapp chats
+
+Link to app --> https://whatsapp-chat-analyzer-project.streamlit.app/
 
 ## Project Structure
 
